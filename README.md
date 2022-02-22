@@ -33,6 +33,7 @@ https://kuttler.eu/en/bitcoin/btc/faucet/
 
 You can find out the address of your test wallet by clicking the “Show address” button. This is the address you should specify when requesting test BTC. Using this address, you can also receive test BTC from other test participants. 
 Pressing the "Refresh" button initiates an update of the test wallet data.
-__The "Send" section__llows you to send test BTC to other test participants, indicating their wallet address and the amount of transfer.
+
+__The "Send" section__ allows you to send test BTC to other test participants, indicating their wallet address and the amount of transfer.
 
 If you have any questions about using Tectum TestNET v1.3, you can get advice from the project participants and administration in the telegram group https://t.me/tectumglobal or join support group: https://t.me/tectumsupport
