@@ -5,7 +5,7 @@ To start testing Tectum blockchain, you need to run the Tectum Test file Node.ex
 After launching the application, you will be asked to enter your login details or register. When using it for the first time, click the "registration" button and fill in the required fields. The account is activated instantly!
 
 ## Usage of the client node: ##
-1.	__The "Node" window.___ 
+1.	__The "Node" window.__ 
 This window displays blockchain events in real time.
 2.	__The "Briefcase" window.__
 In this window, you can perform all the basic actions with the system using TET test tokens. In the "Make transaction" section, click the "Refresh" button to get a list of tokens available for transactions. 
@@ -18,7 +18,7 @@ The __"Report" section__ displays information about the last 10 transactions bet
 3.	__BTC window.__ 
 This window allows you to transfer test BTC using the Tectum network. You can get test BTC on one of the following sites by following the instructions on them.
 
-Google 
+[Google](https://www.google.com/search?q=bitcoin+faucet+testnet&oq=bitcoin+faucet+testnet&aqs=chrome.0.69i59j69i60l3j69i65.3960j0j7&sourceid=chrome&ie=UTF-8)
 
 https://bitcoinfaucet.uo1.net/ 
 
