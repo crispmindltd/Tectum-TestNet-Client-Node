@@ -18,7 +18,7 @@ The __"Report" section__ displays information about the last 10 transactions bet
 3.	__BTC window.__ 
 This window allows you to transfer test BTC using the Tectum network. You can get test BTC on one of the following sites by following the instructions on them.
 
-[Google](https://www.google.com/search?q=bitcoin+faucet+testnet&oq=bitcoin+faucet+testnet&aqs=chrome.0.69i59j69i60l3j69i65.3960j0j7&sourceid=chrome&ie=UTF-8)
+[Google](https://www.google.com/search?q=bitcoin+faucet+testnet&oq=bitcoin+faucet+testnet)
 
 https://bitcoinfaucet.uo1.net/ 
 
