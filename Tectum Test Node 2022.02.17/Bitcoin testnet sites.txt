@@ -1,9 +1,0 @@
-bitcoin faucet testnet
-https://www.google.com/search?q=bitcoin+faucet+testnet&oq=bitcoin+faucet+testnet&aqs=chrome.0.69i59j69i60l3j69i65.3960j0j7&sourceid=chrome&ie=UTF-8
-
-
-https://bitcoinfaucet.uo1.net/
-https://testnet-faucet.mempool.co/
-https://coinfaucet.eu/en/btc-testnet/
-https://testnet-faucet.com/btc-testnet/
-https://kuttler.eu/en/bitcoin/btc/faucet/
